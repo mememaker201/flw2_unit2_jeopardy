@@ -7,6 +7,7 @@ let categories = [
     "Painfully obvious"
 ];
 
+
 /* TODO: Program the following:
  *  Print the category titles.
  *
@@ -33,5 +34,6 @@ let categories = [
  *      Answer: https://bit.ly/3gOwrga
  */
 function renderCategories() {
-    // Add code here
+    for (const element of categories)
+    <div class= 'categories'><div= 'robots'{">"}Robots</div></div>
 }
